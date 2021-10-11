@@ -1,0 +1,8 @@
+.titled-pane > *.content {
+  -fx-background-color: null;
+  -fx-border-color: null;
+}
+
+.table-column {
+  -fx-alignment: CENTER;
+}

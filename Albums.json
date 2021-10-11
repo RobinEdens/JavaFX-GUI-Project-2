@@ -1,0 +1,675 @@
+{
+  "Albums": [
+    {
+      "band_name": "Strapping Young Lad",
+      "album_name": "Alien",
+      "track_list": [
+        {
+          "name": "Imperial",
+          "length": "137"
+        },
+        {
+          "name": "Skeksis",
+          "length": "402"
+        },
+        {
+          "name": "Love?",
+          "length": "262"
+        },
+        {
+          "name": "We Ride",
+          "length": "283"
+        },
+        {
+          "name": "Possessions",
+          "length": "157"
+        },
+        {
+          "name": "Two Weeks",
+          "length": "208"
+        },
+        {
+          "name": "Thalamus",
+          "length": "238"
+        },
+        {
+          "name": "Zen",
+          "length": "302"
+        },
+        {
+          "name": "Info Dump",
+          "length": "698"
+        }
+
+      ],
+      "band_members": [
+        {
+          "first_name": "Devin",
+          "last_name": "Townsend",
+          "instrument": "guitar, vocals, keyboards, samples, production, engineering"
+        },
+        {
+          "first_name": "Gene",
+          "last_name": "Hoglan",
+          "instrument": "drums"
+        },
+        {
+          "first_name": "Byron",
+          "last_name": "Stroud",
+          "instrument": "bass guitar, associate production"
+        },
+        {
+          "first_name": "Jed",
+          "last_name": "Simon",
+          "instrument": "guitar"
+        }
+      ],
+      "publisher": "Century Media",
+      "date_published": "03-22-2005"
+    },
+    {
+      "band_name": "Plini",
+      "album_name": "The End of Everything (EP)",
+      "track_list": [
+        {
+          "name": "The End of Everything",
+          "length": "246"
+        },
+        {
+          "name": "Wombat Astronaut",
+          "length": "264"
+        },
+        {
+          "name": "Paper Moon",
+          "length": "512"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "Plini",
+          "last_name": "Roessler",
+          "instrument": "Vocals"
+        },
+        {
+          "first_name": "Marco",
+          "last_name": "Minnemann",
+          "instrument": "Drums"
+        },
+        {
+          "first_name": "Simon",
+          "last_name": "Grove",
+          "instrument": "Bass"
+        },
+        {
+          "first_name": "Luke",
+          "last_name": "Martin",
+          "instrument": "Piano"
+        }
+      ],
+      "publisher": "Self-Published",
+      "date_published": "01-01-2015"
+    },
+    {
+      "band_name": "Every Time I Die",
+      "album_name": "From Parts Unknown",
+      "track_list": [
+        {
+          "name": "The Great Secret",
+          "length": "159"
+        },
+        {
+          "name": "Pelican of the Desert",
+          "length": "123"
+        },
+        {
+          "name": "Decayin' with the Boys",
+          "length": "153"
+        },
+        {
+          "name": "Overstayer",
+          "length": "129"
+        },
+        {
+          "name": "If There Is Room to Move, Things Move",
+          "length": "159"
+        },
+        {
+          "name": "Moor",
+          "length": "207"
+        },
+        {
+          "name": "Exometrium",
+          "length": "86"
+        },
+        {
+          "name": "Thirst",
+          "length": "190"
+        },
+        {
+          "name": "All Structures Are Unstable",
+          "length": "124"
+        },
+        {
+          "name": "El Doradot",
+          "length": "175"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "Keith",
+          "last_name": "Buckley",
+          "instrument": "Vocals"
+        },
+        {
+          "first_name": "Jordan",
+          "last_name": "Buckley",
+          "instrument": "Guitar"
+        },
+        {
+          "first_name": "Andrew",
+          "last_name": "Williams",
+          "instrument": "Guitar"
+        },
+        {
+          "first_name": "Ryan",
+          "last_name": "Leger",
+          "instrument": "Drums"
+        },
+        {
+          "first_name": "Stephen",
+          "last_name": "Micciche",
+          "instrument": "Bass"
+        }
+      ],
+      "publisher": "Epitaph",
+      "date_published": "07-01-2014"
+    },
+    {
+      "band_name": "Talking Heads",
+      "album_name": "Remain In Light",
+      "track_list": [
+        {
+          "name": "Born Under Punches",
+          "length": "349"
+        },
+        {
+          "name": "Crosseyed and Painless",
+          "length": "288"
+        },
+        {
+          "name": "The Great Curve",
+          "length": "408"
+        } ,
+        {
+          "name": "Once in a Lifetime",
+          "length": "263"
+        } ,
+        {
+          "name": "Houses in Motion",
+          "length": "253"
+        } ,
+        {
+          "name": "Seen and Not Seen",
+          "length": "205"
+        } ,
+        {
+          "name": "LIstening Wind",
+          "length": "283"
+        } ,
+        {
+          "name": "",
+          "length": "362"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "David",
+          "last_name": "Byrne",
+          "instrument": "Lead vocals, guitar, bass guitar, keyboards, percussion, vocal arrangements"
+        },
+        {
+          "first_name": "Jerry",
+          "last_name": "Harrison",
+          "instrument": "Guitars, keyboards, percussion, backing vocals"
+        },
+        {
+          "first_name": "Tina",
+          "last_name": "Weymouth",
+          "instrument": "Bass guitar, keyboards, percussion, backing vocals"
+        },
+        {
+          "first_name": "Chris",
+          "last_name": "Frantz",
+          "instrument": "Drums, percussion, keyboards, backing vocals"
+        }
+      ],
+      "publisher": "Sire",
+      "date_published": "10-08-1980"
+    },
+    {
+      "band_name": "Haken",
+      "album_name": "The Mountain",
+      "track_list": [
+        {
+          "name": "The Path",
+          "length": "166"
+        },
+        {
+          "name": "Atlas Stone",
+          "length": "393"
+        },
+        {
+          "name": "Cockroach King",
+          "length": "493"
+        },
+        {
+          "name": "In Memoriam",
+          "length": "257"
+        },
+        {
+          "name": "Because It's There",
+          "length": "263"
+        },
+        {
+          "name": "Falling Back to Earth",
+          "length": "610"
+        },
+        {
+          "name": "As Death Embraces",
+          "length": "193"
+        },
+        {
+          "name": "Pareldolla",
+          "length": "650"
+        },
+        {
+          "name": "Somebody",
+          "length": "540"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "Ross",
+          "last_name": "Jennings",
+          "instrument": "Lead Vocals"
+        },
+        {
+          "first_name": "Richard",
+          "last_name": "Henshall",
+          "instrument": "Guitars, keyboards, backing vocals"
+        },
+        {
+          "first_name": "Charlie",
+          "last_name": "Griffiths",
+          "instrument": "Guitars, backing vocals"
+        },
+        {
+          "first_name": "Thomas",
+          "last_name": "MacLean",
+          "instrument": "Bass, backing vocals"
+        },
+        {
+          "first_name": "Diego",
+          "last_name": "Tejeida",
+          "instrument": "Keyboards, sound design, second voice (track 8)"
+        },
+        {
+          "first_name": "Raymond",
+          "last_name": "Hearne",
+          "instrument": "Drums, percussion, backing vocals, cimbasso, tuba"
+        }
+      ],
+      "publisher": "Century Media Records",
+      "date_published": "09-02-2013"
+    },
+    {
+      "band_name": "Between the Buried and Me",
+      "album_name": "The Great Misdirect",
+      "track_list": [
+        {
+          "name": "Mirrors",
+          "length": "206"
+        },
+        {
+          "name": "Obfuscation",
+          "length": "555"
+        },
+        {
+          "name": "Disease, Injury, Madness",
+          "length": "663"
+        },
+        {
+          "name": "Fossil Genera - A Feed from Cloud Mountain",
+          "length": "731"
+        },
+        {
+          "name": "Desert of Song",
+          "length": "334"
+        },
+        {
+          "name": "Swim to the Moon",
+          "length": "1074"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "Tommy Giles",
+          "last_name": "Rogers Jr",
+          "instrument": "Vocals, keyboard"
+        },
+        {
+          "first_name": "Paul",
+          "last_name": "Waggoner",
+          "instrument": "Lead guitar, vocals on 'Desert of Song'"
+        },
+        {
+          "first_name": "Dan",
+          "last_name": "Briggs",
+          "instrument": "Bass, keyboards, backing vocals"
+        },
+        {
+          "first_name": "Dustie",
+          "last_name": "Waring",
+          "instrument": "Rhythm Guitar"
+        },
+        {
+          "first_name": "Blake",
+          "last_name": "Richardson",
+          "instrument": "Drums, percussion"
+        }
+      ],
+      "publisher": "Victory",
+      "date_published": "10-27-2009"
+    },
+    {
+      "band_name": "Protest the Hero",
+      "album_name": "Pacific Myth (EP)",
+      "track_list": [
+        {
+          "name":"Ragged Tooth",
+          "length": "218"
+        },
+        {
+          "name":"Tidal",
+          "length": "365"
+        },
+        {
+          "name":"Cold Water",
+          "length": "344"
+        },
+        {
+          "name":"Cataract",
+          "length": "300"
+        },
+        {
+          "name":"Harbinger",
+          "length": "367"
+        },
+        {
+          "name":"Caravan",
+          "length": "519"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "Rody",
+          "last_name": "Walker",
+          "instrument": "Vocals"
+        },
+        {
+          "first_name": "Tim",
+          "last_name": "Millar",
+          "instrument": "Guitar, piano"
+        },
+        {
+          "first_name": "Luke",
+          "last_name": "Hoskin",
+          "instrument": "Guitar"
+        },
+        {
+          "first_name": "Mike",
+          "last_name": "Ieradi",
+          "instrument": "Drums"
+        },
+        {
+          "first_name": "Cam",
+          "last_name": "McLellan",
+          "instrument": "Bass"
+        }
+      ],
+      "publisher": "Self-Published",
+      "date_published": "11-16-2016"
+    },
+    {
+      "band_name": "My Chemical Romance",
+      "album_name": "The Black Parade",
+      "track_list": [
+        {
+          "name": "The End",
+          "length": "112"
+        },
+        {
+          "name": "Dead!",
+          "length": "195"
+        },
+        {
+          "name": "This Is How I Disappear",
+          "length": "239"
+        },
+        {
+          "name": "The Sharpest Lives",
+          "length": "200"
+        },
+        {
+          "name": "Welcome to the Black Parade",
+          "length": "311"
+        },
+        {
+          "name": "I Dont Love You",
+          "length": "238"
+        },
+        {
+          "name": "House of Wolves",
+          "length": "182"
+        },
+        {
+          "name": "Cancer",
+          "length": "142"
+        },
+        {
+          "name": "Mama",
+          "length": "279"
+        },
+        {
+          "name": "Sleep",
+          "length": "283"
+        },
+        {
+          "name": "Teenagers",
+          "length": "163"
+        },
+        {
+          "name": "Disenchanted",
+          "length": "295"
+        },
+        {
+          "name": "Famous Last Words",
+          "length": "299"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "Gerard",
+          "last_name": "Way",
+          "instrument": "Lead and backing vocals"
+        },
+        {
+          "first_name": "Mikey",
+          "last_name": "Way",
+          "instrument": "Bass (except 'Cancer')"
+        },
+        {
+          "first_name": "Bob",
+          "last_name": "Bryar",
+          "instrument": "Drums, percussion"
+        },
+        {
+          "first_name": "Frank",
+          "last_name": "Iero",
+          "instrument": "Guitars, backing vocals"
+        },
+        {
+          "first_name": "Ray",
+          "last_name": "Toro",
+          "instrument": "guitars, backing vocals; bass guitar on 'Cancer'"
+        }
+      ],
+      "publisher": "Reprise",
+      "date_published": "10-20-2006"
+    },
+    {
+      "band_name": "Green Day",
+      "album_name": "Warning",
+      "track_list": [
+        {
+          "name": "Warning",
+          "length": "222"
+        },
+        {
+          "name": "Blood, Sex, and Booze",
+          "length": "213"
+        },
+        {
+          "name": "Church on Sunday",
+          "length": "206"
+        },
+        {
+          "name": "Fashion Victim",
+          "length": "169"
+        },
+        {
+          "name": "Castaway",
+          "length": "232"
+        },
+        {
+          "name": "Misery",
+          "length": "306"
+        },
+        {
+          "name": "Deadbeat Holiday",
+          "length": "215"
+        },
+        {
+          "name": "Hold On",
+          "length": "176"
+        },
+        {
+          "name": "Jackass",
+          "length": "163"
+        },
+        {
+          "name": "Waiting",
+          "length": "193"
+        },
+        {
+          "name": "Minority",
+          "length": "169"
+        },
+        {
+          "name": "Macy's Day Parade",
+          "length": "214"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "Billie Joe",
+          "last_name": "Armstrong",
+          "instrument": "Lead vocals, guitar, harmonica, mandolin, piano"
+        },
+        {
+          "first_name": "Mike",
+          "last_name": "Dirnt",
+          "instrument": "Bass, backing vocals, Farfisa Organ on 'Misery'"
+        },
+        {
+          "first_name": "Tre",
+          "last_name": "Cool",
+          "instrument": "Drums, percussion, accordion"
+        }
+      ],
+      "publisher": "Reprise",
+      "date_published": "10-03-2000"
+    },
+    {
+      "band_name": "Dream Theater",
+      "album_name": "Distance Over Time",
+      "track_list": [
+        {
+          "name": "Untethered Angel",
+          "length": "374"
+        },
+        {
+          "name": "Paralyzed",
+          "length": "257"
+        },
+        {
+          "name": "Fall Into the Light",
+          "length": "424"
+        },
+        {
+          "name": "Barstool Warrior",
+          "length": "403"
+        },
+        {
+          "name": "Room 137",
+          "length": "263"
+        },
+        {
+          "name": "S2N",
+          "length": "383"
+        },
+        {
+          "name": "At Will's End",
+          "length": "540"
+        },
+        {
+          "name": "Out of Reach",
+          "length": "244"
+        },
+        {
+          "name": "Pale Blue Dot",
+          "length": "505"
+        }
+      ],
+      "band_members": [
+        {
+          "first_name": "James",
+          "last_name": "LaBrie",
+          "instrument": "Lead Vocals"
+        },
+        {
+          "first_name": "John",
+          "last_name": "Petrucci",
+          "instrument": "Guitars, production"
+        },
+        {
+          "first_name": "John",
+          "last_name": "Myung",
+          "instrument": "Bass"
+        },
+        {
+          "first_name": "Jordan",
+          "last_name": "Rudess",
+          "instrument": "Keyboards"
+        },
+        {
+          "first_name": "Mike",
+          "last_name": "Mangini",
+          "instrument": "Drums"
+        }
+      ],
+      "publisher": "Inside Out",
+      "date_published": "02-22-2019"
+    }
+  ]
+}
